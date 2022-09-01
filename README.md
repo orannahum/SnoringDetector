@@ -5,7 +5,7 @@ As part of the final project in my master's degree in electrical engineering I d
 
 The initial step was to build a system that would detect when there is snoring and count the number of snoring for an allotted time.
 
-The steps to build the model:
+<strong>The steps to build the model:</strong>
 
 1.The first step is finding the data. Data of snoring is not very common. But there is a pretty good dataset source on the kaggle website.
 The address of the dataset: https://www.kaggle.com/datasets/tareqkhanemu/snoring
@@ -17,7 +17,8 @@ The address of the dataset: https://www.kaggle.com/datasets/tareqkhanemu/snoring
 4.The next step was to build a UI (the simplest one - just see if the machine works) and actually take data in real time and cut it into slices of one second back in time and give a result whether this second is snoring or not snoring.
 
 
-Running the program:
+<strong>Running the program:</strong>
+
 1.Downloading the data to the local computer
 The address of the dataset: https://www.kaggle.com/datasets/tareqkhanemu/snoring
 
