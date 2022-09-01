@@ -30,5 +30,5 @@ The model then predicts whether that slice is 1 or 0 (snoring or not snoring). A
 
 This program is an initial stage, so I would appreciate feedback and improvement: Oranne5@gmail.com
 
-
+Here I present the working program. Because it's a GIF it can't be heard but believe me while it was showing snoring I made a snoring sound:
 ![](https://github.com/orannahum/SnoringDetector/blob/main/snoring%20detection.gif?raw=true)
