@@ -31,4 +31,4 @@ The model then predicts whether that slice is 1 or 0 (snoring or not snoring). A
 This program is an initial stage, so I would appreciate feedback and improvement: Oranne5@gmail.com
 
 
-![](C:\Users\Oran Nahum\Desktop\תלושי שכר paralle wireless.gif)
+![](https://github.com/orannahum/SnoringDetector/blob/main/snoring%20detection.gif?raw=true)
