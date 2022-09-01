@@ -19,10 +19,11 @@ The address of the dataset: https://www.kaggle.com/datasets/tareqkhanemu/snoring
 
 <strong>Running the program:</strong>
 
-1.Downloading the data to the local computer
+1.Downloading the data to the local computer.The folder will be named "Snoring_Dataset".
 The address of the dataset: https://www.kaggle.com/datasets/tareqkhanemu/snoring
+You can create a folder of pre-recorded audio and test the model. The audio will be in the "Test_Data" folder.
 
-2.Running the file Model_development.ipynb (preferably in a notebook) and saving the model (my_h5_model.h5)
+2.Running the file Model_development.ipynb (preferably in a notebook) and saving the model (my_h5_model.h5 in "saved_models" folder)
 
 3.The last step is to run the main.py function. This function loads the model and then enters a 20 second loop of recording the audio to mp3 one second back. Then switch to a wav file with a sampling frequency of 16K as we trained the model.
 The model then predicts whether that slice is 1 or 0 (snoring or not snoring). All this happens in real time with a fairly simple UI.
